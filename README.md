@@ -7,4 +7,4 @@ Aplicativo desenvolvido em dupla. Gustavo Paiva & Arthur Bueno.
 !(printscreens/cardapio-pizzaria.png)
 
 ## Tela de Cardapio
-!(/app-login/blob/main/printscreens/cardapio-pizzaria.png)
+![Tela de login](/app-login/blob/main/printscreens/cardapio-pizzaria.png)
